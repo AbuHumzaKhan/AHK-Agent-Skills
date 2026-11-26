@@ -40,6 +40,7 @@ This repository contains reusable, domain-specific agent workflows for the AHK d
 Use this repository as the AHK skill source of truth. For each user request, select the smallest relevant skill set below and retrieve the exact `skills/<name>/SKILL.md` file using the connected GitHub integration before applying the workflow. Never claim to have inspected a skill unless retrieval succeeded in the current task. If retrieval fails, disclose that and ask the user to retry GitHub access or provide the file contents. A GitHub connection allows retrieval; it does not automatically install native ChatGPT Skills or guarantee that every new conversation loads this index.
 
 ### Skill routing
+- `mcq-expert`: high-accuracy MCQ solving across technical, business, communication, aptitude and professional topics.
 - `data-analyst`: business/data analysis, KPI design, reporting, trends and segmentation.
 - `data-cleaning`: profiling, missingness, duplicates, standardization and validation.
 - `sql-analyst`: SQL Server, SSMS, joins, CTEs, windows and query tuning.
