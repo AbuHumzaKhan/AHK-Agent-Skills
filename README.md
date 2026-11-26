@@ -23,6 +23,7 @@ Reusable AI Agent Skills for Data Analytics, Business Analysis, Web Development,
 | github-engineer | Repository and GitHub workflow |
 | learning-architect | Progressive practical curriculum design |
 | ai-agent-engineer | AI agent architecture and guardrails |
+| mcq-expert | High-accuracy MCQ solving across technical, business and professional topics |
 
 ## Repository structure
 
